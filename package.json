@@ -12,6 +12,7 @@
     "good-console": "^2.0.1",
     "hapi": "^7.5.2",
     "joi": "^4.9.0",
+    "underscore": "^1.7.0"
   },
   "devDependencies": {
     "gulp": "^3.8.8",
