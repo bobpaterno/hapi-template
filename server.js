@@ -11,7 +11,7 @@ var server = new Hapi.Server(host, port, {
     relativeTo: Path.join(__dirname,'app')
   }
 });
-
+//new comment
 // Show Admin App
 server.route({
   method: 'GET',
